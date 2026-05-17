@@ -1,6 +1,4 @@
-organizes files based on filenames
-
-organizes the current folder safely
+organizes the current folder
 ```bash
 python file_organizer.py
 ```
