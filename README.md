@@ -1,4 +1,3 @@
-# file-organizer
 organizes files based on filenames
 
 organizes the current folder safely
